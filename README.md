@@ -24,7 +24,7 @@ I'm a 4th period student on the Internet Systems course at IFPB, passionate abou
 ## Contato
 
 - LinkedIn: [Brian Rafael](www.linkedin.com/in/brian-rafael)
-- E-mail: brianxdgmr@gmail.com
+- E-mail: brianrafs.contato@gmail.com
 
 
 
