@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a 4th period student on the Internet Systems course at IFPB, passionate about technology and software development. I believe that with determination and focus it is possible to accomplish anything.
+I'm a 5th period student on the Internet Systems course at IFPB, passionate about technology and software development. I believe that with determination and focus it is possible to accomplish anything.
 
 ## Languages ​​and technologies
 
